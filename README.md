@@ -38,3 +38,17 @@ Además incluye retroalimentación visual y verificación en tiempo real.
 - Confirmación de contraseña
 - Mensajes de error personalizados
 - Mensaje de registro exitoso
+
+## Capturas 
+
+1. Formulario y Registrarse
+<img width="1919" height="1079" alt="Formulario" src="https://res.cloudinary.com/dgq6es9xy/image/upload/v1773636937/Captura_de_pantalla_2026-03-15_235528_zrf8o6.png">
+
+2. Validación de errores
+<img width="1919" height="1079" alt="Formulario" src="https://res.cloudinary.com/dgq6es9xy/image/upload/v1773637197/Captura_de_pantalla_2026-03-15_235936_dab3gg.png">
+
+3. Validación en tiempo real
+<img width="1919" height="1079" alt="Formulario" src="https://res.cloudinary.com/dgq6es9xy/image/upload/v1773637398/Captura_de_pantalla_2026-03-16_000308_cnqtsy.png">
+
+4. Registro exitoso
+<img width="1919" height="1079" alt="Formulario" src="https://res.cloudinary.com/dgq6es9xy/image/upload/v1773637470/Captura_de_pantalla_2026-03-16_000422_xns49d.png">
